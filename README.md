@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-[https://yinktech.github.io/random-Images/](ht)
+[Live Demo link](https://yinktech.github.io/random-Images/)
